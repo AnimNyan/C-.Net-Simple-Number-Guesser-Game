@@ -1,0 +1,16 @@
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.exe
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.deps.json
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.runtimeconfig.json
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.runtimeconfig.dev.json
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.dll
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\bin\Debug\net5.0\ref\NumberGuesser.dll
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\bin\Debug\net5.0\NumberGuesser.pdb
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.csproj.AssemblyReference.cache
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.AssemblyInfo.cs
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.dll
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\obj\Debug\net5.0\ref\NumberGuesser.dll
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.pdb
+C:\Seabrook\C# Projects\NumberGuesser\NumberGuesser\obj\Debug\net5.0\NumberGuesser.genruntimeconfig.cache

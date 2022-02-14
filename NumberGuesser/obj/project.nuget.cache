@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6G+TrevVu0jE0t+i8n01iXUhVMtP032M9HnQyJlHWh1DaEvAGZr8gsd2URvV9gkFNg38pYxdUeDRInAvOzcHmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Seabrook\\C# Projects\\NumberGuesser\\NumberGuesser\\NumberGuesser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seabr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
